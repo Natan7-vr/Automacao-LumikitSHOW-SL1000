@@ -15,7 +15,7 @@ o valor de TEMPO_ESPERA_MS.
 """
 
 __author__ = "Natan Vanini da Rosa"
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 
 import sys
 from time import sleep
